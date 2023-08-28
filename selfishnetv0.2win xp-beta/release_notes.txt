@@ -1,0 +1,2 @@
+-- 02/06/2007 --
+SelfishNet doesn't connect to network card in promiscuous mode anymore. Some INTEL cards were having problem with that.
